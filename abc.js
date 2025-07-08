@@ -6,6 +6,6 @@ app.post("/",(req,res) => {
     res.send("data")
 })
 
-app.listen(8000, () => {
+app.listen(8050, () => {
     console.log("server")
 })
