@@ -1,1 +1,1 @@
-API that provides random cs facts
+Rest API that provides cs facts
