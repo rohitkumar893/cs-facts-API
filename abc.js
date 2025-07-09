@@ -19,7 +19,7 @@ const csFacts = [
   "The original iPhone had less computing power than a pocket calculator today."
 ];
 
-app.post("/", (req, res) => {
+app.get("/", (req, res) => {
   const randomIndex = Math.floor(Math.random() * csFacts.length);
   const randomFact = csFacts[randomIndex];
   res.send(randomFact);
