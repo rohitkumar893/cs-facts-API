@@ -6,7 +6,6 @@ const csFacts = [
   "The first computer bug was an actual moth stuck in a relay.",
   "Java was originally called Oak.",
   "The first 1GB hard drive was announced in 1980 and weighed 550 pounds.",
-  "Python is named after 'Monty Python', not the snake.",
   "The first website is still online at info.cern.ch.",
   "Google was originally called BackRub.",
   "The QWERTY keyboard was designed to slow you down, not speed you up.",
